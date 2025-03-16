@@ -1,4 +1,4 @@
-Máquinas de TryHackMe para Preparación en Pentesting
+Máquinas de TryHackMe para Preparación de la eJPTv2
 
 A continuación, te dejo una lista de máquinas en TryHackMe que son ideales previa a el examen. Cada máquina ha sido seleccionada por su enfoque en servicios y técnicas comunes que muy probablemente veas en el examen, lo que las hace perfectas para prepararse en entornos realistas y mejorar en las fases de reconocimiento, enumeración, explotación y postexplotación.
 
