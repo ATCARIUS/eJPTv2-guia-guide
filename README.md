@@ -1,10 +1,10 @@
 # Guía para la eJPTv2 / eJPTv2 Guide  
 
 🇨🇱 **Español**:  
-Este repositorio es una guía práctica para preparar y aprobar el examen eJPTv2. Basado en mi experiencia personal, he recopilado comandos esenciales, máquinas recomendadas de TryHackMe, y tips que me hubiera gustado conocer antes de presentarme al examen.  
+Este repositorio es una guía práctica para preparar y aprobar el examen eJPTv2. Basado en mi experiencia personal, he recopilado máquinas recomendadas de TryHackMe, y tips que me hubiera gustado conocer antes de presentarme al examen.  
 
 🇺🇸 **English**:  
-This repository is a practical guide to prepare for and pass the eJPTv2 exam. Based on my personal experience, I've compiled essential commands, recommended TryHackMe machines, and tips I wish I had known before taking the exam.  
+This repository is a practical guide to prepare for and pass the eJPTv2 exam. Based on my personal experience, I've compiled recommended TryHackMe machines, and tips I wish I had known before taking the exam.  
 
 ---
 
