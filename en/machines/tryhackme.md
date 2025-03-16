@@ -1,4 +1,5 @@
 -**Machines collected from nmmorette's repository, which reviews the eJPTv2**
+
 -***https://nmmorette.github.io/posts/2023/12/review-ejptv2-junior-penetration-tester/#labs***
 ----------------------------------------------------------------------------------------------------------------------------------------
 Below is a list of TryHackMe machines that are ideal for pre-exam preparation. Each machine has been selected for its focus on common services and techniques you will likely encounter on the exam, making them perfect for preparing in realistic environments and improving in the phases of reconnaissance, enumeration, exploitation, and post-exploitation.
