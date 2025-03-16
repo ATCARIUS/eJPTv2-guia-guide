@@ -1,123 +1,124 @@
-Máquinas de TryHackMe para Preparación de la eJPTv2
+-**Machines collected from nmmorette's repository, which reviews the eJPTv2**
+-***https://nmmorette.github.io/posts/2023/12/review-ejptv2-junior-penetration-tester/#labs***
+----------------------------------------------------------------------------------------------------------------------------------------
+Below is a list of TryHackMe machines that are ideal for pre-exam preparation. Each machine has been selected for its focus on common services and techniques you will likely encounter on the exam, making them perfect for preparing in realistic environments and improving in the phases of reconnaissance, enumeration, exploitation, and post-exploitation.
 
-A continuación, te dejo una lista de máquinas en TryHackMe que son ideales previa a el examen. Cada máquina ha sido seleccionada por su enfoque en servicios y técnicas comunes que muy probablemente veas en el examen, lo que las hace perfectas para prepararse en entornos realistas y mejorar en las fases de reconocimiento, enumeración, explotación y postexplotación.
+    Basic Pentesting
 
-1. Basic Pentesting
+    Difficulty: Easy
 
-    Dificultad: Fácil
+    Key Services: HTTP, SMB, SSH.
 
-    Servicios clave: HTTP, SMB, SSH.
+    Description: This machine is ideal for those starting in pentesting. It covers the enumeration of SMB and HTTP services, brute-forcing SSH credentials, and the exploitation of common vulnerabilities. You will practice using tools like Nmap, Hydra, and enum4linux, essential for identifying and exploiting insecure configurations in network services.
 
-    Descripción: Esta máquina es ideal para quienes están comenzando en el pentesting. Cubre la enumeración de servicios SMB y HTTP, fuerza bruta a credenciales SSH, y la explotación de vulnerabilidades comunes. Practicarás el uso de herramientas como Nmap, Hydra, y enum4linux, esenciales para identificar y explotar configuraciones inseguras en servicios de red.
+    Link: tryhackme.com/room/basicpentestingjt
 
-    Enlace: tryhackme.com/room/basicpentestingjt
+    ICE
 
-2. ICE
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: RDP, HTTP, Windows Services.
 
-    Servicios clave: RDP, HTTP, Servicios Windows.
+    Description: Focused on Windows environments, this machine allows you to practice exploiting services like RDP (Remote Desktop Protocol) and web services. You will learn to use Metasploit to gain access and perform post-exploitation tasks, such as credential theft and privilege escalation.
 
-    Descripción: Enfocada en entornos Windows, esta máquina te permite practicar la explotación de servicios como RDP (Remote Desktop Protocol) y servicios web. Aprenderás a usar Metasploit para ganar acceso y realizar tareas de postexplotación, como el robo de credenciales y la escalada de privilegios.
+    Link: tryhackme.com/room/ice
 
-    Enlace: tryhackme.com/room/ice
+    Brooklyn Nine Nine
 
-3. Brooklyn Nine Nine
+    Difficulty: Easy
 
-    Dificultad: Fácil
+    Key Services: FTP, SSH.
 
-    Servicios clave: FTP, SSH.
+    Description: A fun but educational machine that covers FTP service enumeration, SSH brute-forcing, and privilege escalation. It is perfect for practicing the identification of insecure configurations in common services and the use of tools like Nmap and Hydra.
 
-    Descripción: Una máquina divertida pero educativa que cubre la enumeración de servicios FTP, fuerza bruta a SSH, y escalada de privilegios. Es perfecta para practicar la identificación de configuraciones inseguras en servicios comunes y el uso de herramientas como Nmap y Hydra.
+    Link: tryhackme.com/room/brooklynninenine
 
-    Enlace: tryhackme.com/room/brooklynninenine
+    Easy Peasy
 
-4. Easy Peasy
+    Difficulty: Easy
 
-    Dificultad: Fácil
+    Key Services: HTTP, Steganography.
 
-    Servicios clave: HTTP, Esteganografía.
+    Description: This machine introduces concepts like steganography and web service enumeration. It will help you develop skills to find hidden information in files and HTTP services, a useful technique in the reconnaissance phase.
 
-    Descripción: Esta máquina introduce conceptos como la esteganografía y la enumeración de servicios web. Te ayudará a desarrollar habilidades para encontrar información oculta en archivos y servicios HTTP, una técnica útil en la fase de reconocimiento.
+    Link: tryhackme.com/room/easypeasyctf
 
-    Enlace: tryhackme.com/room/easypeasyctf
+    Anonymous
 
-5. Anonymous
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: FTP, SSH.
 
-    Servicios clave: FTP, SSH.
+    Description: Simulates a compromised server where you must exploit misconfigured FTP services and escalate privileges. It is ideal for practicing FTP service exploitation and privilege escalation in Linux environments.
 
-    Descripción: Simula un servidor comprometido donde debes explotar servicios FTP mal configurados y escalar privilegios. Es ideal para practicar la explotación de servicios FTP y la escalada de privilegios en entornos Linux.
+    Link: tryhackme.com/room/anonymous
 
-    Enlace: tryhackme.com/room/anonymous
+    RootMe
 
-6. RootMe
+    Difficulty: Easy
 
-    Dificultad: Fácil
+    Key Services: HTTP, File Upload.
 
-    Servicios clave: HTTP, Subida de archivos.
+    Description: A classic machine that covers web enumeration, malicious file uploads, and privilege escalation. Perfect for practicing the identification of vulnerabilities in web applications and the exploitation of configuration flaws.
 
-    Descripción: Una máquina clásica que cubre enumeración web, subida de archivos maliciosos, y escalada de privilegios. Perfecta para practicar la identificación de vulnerabilidades en aplicaciones web y la explotación de fallos de configuración.
+    Link: tryhackme.com/room/rrootme
 
-    Enlace: tryhackme.com/room/rrootme
+    HA: JokerCTF
 
-7. HA: JokerCTF
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: HTTP, Reverse Engineering.
 
-    Servicios clave: HTTP, Ingeniería inversa.
+    Description: Combines enumeration, web service exploitation, and reverse engineering techniques. It is useful for practicing binary analysis and exploiting vulnerabilities in custom applications.
 
-    Descripción: Combina enumeración, explotación de servicios web, y técnicas de ingeniería inversa. Es útil para practicar el análisis de binarios y la explotación de vulnerabilidades en aplicaciones personalizadas.
+    Link: tryhackme.com/room/hajokerctf
 
-    Enlace: tryhackme.com/room/hajokerctf
+    GoldenEye
 
-8. GoldenEye
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: HTTP, POP3, Brute Force.
 
-    Servicios clave: HTTP, POP3, Fuerza bruta.
+    Description: Based on the James Bond movie, this machine covers enumeration, brute-forcing POP3 services, and web service exploitation. Ideal for practicing the use of tools like Hydra and exploiting email services.
 
-    Descripción: Basada en la película de James Bond, esta máquina cubre enumeración, fuerza bruta a servicios POP3, y explotación de servicios web. Ideal para practicar el uso de herramientas como Hydra y la explotación de servicios de correo.
+    Link: tryhackme.com/room/goldeneye
 
-    Enlace: tryhackme.com/room/goldeneye
+    Wordpress: CVE-2021-29447
 
-9. Wordpress: CVE-2021-29447
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: HTTP, WordPress.
 
-    Servicios clave: HTTP, WordPress.
+    Description: Focused on exploiting a specific vulnerability in WordPress (CVE-2021-29447), this machine is useful for practicing the identification and exploitation of vulnerabilities in CMS, a key skill in web environments.
 
-    Descripción: Enfocada en la explotación de una vulnerabilidad específica en WordPress (CVE-2021-29447), esta máquina es útil para practicar la identificación y explotación de vulnerabilidades en CMS, una habilidad clave en entornos web.
+    Link: tryhackme.com/room/wordpresscve202129447
 
-    Enlace: tryhackme.com/room/wordpresscve202129447
+    Blog
 
-10. Blog
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: HTTP, SQL Injection.
 
-    Servicios clave: HTTP, SQL Injection.
+    Description: Simulates a vulnerable blog where you must identify and exploit SQL Injection vulnerabilities. It is ideal for practicing web enumeration techniques and exploiting application flaws.
 
-    Descripción: Simula un blog vulnerable donde debes identificar y explotar vulnerabilidades de SQL Injection. Es ideal para practicar técnicas de enumeración web y explotación de fallos en aplicaciones.
+    Link: tryhackme.com/room/blog
 
-    Enlace: tryhackme.com/room/blog
+    Poster
 
-11. Poster
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: HTTP, SSH.
 
-    Servicios clave: HTTP, SSH.
+    Description: Combines enumeration, web service exploitation, and privilege escalation. It is useful for practicing HTTP service exploitation and privilege escalation in Linux environments.
 
-    Descripción: Combina enumeración, explotación de servicios web, y escalada de privilegios. Es útil para practicar la explotación de servicios HTTP y la escalada de privilegios en entornos Linux.
+    Link: tryhackme.com/room/poster
 
-    Enlace: tryhackme.com/room/poster
+    Source
 
-12. Source
+    Difficulty: Intermediate
 
-    Dificultad: Intermedio
+    Key Services: HTTP, Code Analysis.
 
-    Servicios clave: HTTP, Análisis de código.
+    Description: Focused on enumeration and source code analysis, this machine helps you develop skills to identify vulnerabilities in web applications and exploit code flaws.
 
-    Descripción: Enfocada en la enumeración y el análisis de código fuente, esta máquina te ayuda a desarrollar habilidades para identificar vulnerabilidades en aplicaciones web y explotar fallos de código.
-
-    Enlace: tryhackme.com/room/source
+    Link: tryhackme.com/room/source
