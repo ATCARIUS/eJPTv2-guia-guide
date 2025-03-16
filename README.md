@@ -16,5 +16,5 @@ This repository is a practical guide to prepare for and pass the eJPTv2 exam. Ba
 
 ---
 
-📫 **Contacto / Contact**: [atcarius@gmail.com](mailto:atcarius@gmail.com)  
-✨ **Creado por / Made by**: [Carlos De Ferrari (ATCARIUS)](https://github.com/atcarius) 
+ **Contacto / Contact**: [atcarius@gmail.com](mailto:atcarius@gmail.com)  
+ **Creado por / Made by**: [Carlos De Ferrari (ATCARIUS)](https://github.com/atcarius) 
